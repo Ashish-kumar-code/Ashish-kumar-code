@@ -21,6 +21,7 @@
 
 ## 🧑‍💻 About Me
 
+```
 python
 class AshishKumar:
     def __init__(self):
@@ -41,7 +42,7 @@ class AshishKumar:
 
     def fun_fact(self):
         return "I turn ☕ coffee into AI-powered applications!"
-
+```
 
 ---
 
