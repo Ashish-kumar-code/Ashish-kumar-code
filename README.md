@@ -1,175 +1,197 @@
 <div align="center">
 
-# 👋 Hi, I'm Ashish Kumar
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:1a1a2e,100:16213e&text=ASHISH%20KUMAR&fontColor=00d4ff&fontSize=55&fontAlign=50&fontAlignY=55&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Python%20Craftsman&descFontColor=a0aec0&descSize=16&animation=fadeIn" width="100%"/>
 
-### 🚀 Aspiring Software Engineer | Python Developer | AI/ML Enthusiast
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Deep+Learning+%7C+Generative+AI+%7C+Automation;Python+Developer+%7C+Web+Developer;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+```bash
+┌──────────────────────────────────────────────────────────────────────────┐
+│                         $ whoami                                          │
+│                                                                           │
+│  > Ashish Kumar — AI-first developer from Bihar, India 🇮🇳                │
+│  > B.Tech CSE @ GGSES Technical Campus, Bokaro (2022–2026)               │
+│  > 7.51 CGPA | Python · AI/ML · Web Dev · LLM APIs                      │
+│  > Building tools that think, automate, and solve real problems 🤖        │
+│  > Currently: open to internships & full-time roles                      │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=print(%22Hello%2C+World!+I+build+AI+tools%22);%E2%96%B6+Generative+AI+%7C+LLM+APIs+%7C+Automation;%E2%96%B6+CNN+%7C+TensorFlow+%7C+Deep+Learning;%E2%96%B6+Python+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-0552a32ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choubeyashish22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-kumar-code)
+[![Phone](https://img.shields.io/badge/+91--6299765819-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916299765819)
+
+![Visitors](https://komarev.com/ghpvc/?username=Ashish-kumar-code&color=00d4ff&style=flat-square&label=Profile+Visitors)
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🧠 AI / ML Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+
+### 🌐 Web Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### 🛠️ Tools & Infra
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🧪 Projects — AI Lab
+
+> *Each project is a working system, not just a demo.*
+
+### 🤖 01 — Automated Python Docstring Generator
+```
+┌─ Tech ──────────────────────────────────────────────────┐
+│  Python · AST · Streamlit · LLM APIs (Gemini / OpenAI) │
+└─────────────────────────────────────────────────────────┘
+```
+> An AI-powered dev-tool that reads raw Python source code, uses **Abstract Syntax Tree (AST)** parsing to detect every function/class, then calls a live LLM API to generate rich, contextual docstrings — no human input needed.
+- 🔍 Static code analysis via Python AST
+- 🧾 Outputs Google & NumPy doc styles on demand
+- ⚡ Streamlit UI for real-time generation
+- 💡 *Cuts documentation time from hours to seconds*
+
+---
+
+### 🫁 02 — Pneumonia Detection System
+```
+┌─ Tech ───────────────────────────────────────────────────────────────┐
+│  Python · CNN · TensorFlow / PyTorch · OpenCV · Medical X-ray Data  │
+└──────────────────────────────────────────────────────────────────────┘
+```
+> A medical deep-learning model that analyses chest X-ray images to classify pneumonia with high accuracy using Convolutional Neural Networks.
+- 📷 Image preprocessing: resize, normalize, augment
+- 🧠 Custom CNN architecture trained on X-ray datasets
+- 📊 Evaluation with precision, recall, and F1 metrics
+- 💡 *Demonstrates real-world CNN application in healthcare AI*
+
+---
+
+### 💰 03 — Personal Finance Management System
+```
+┌─ Tech ──────────────────┐
+│  Python · SQLite · CLI  │
+└─────────────────────────┘
+```
+> A full-featured CLI financial tracker with user authentication, live budget tracking, and data backup — all powered by a local SQLite database.
+- 🔐 User authentication & session management
+- 📈 Income/expense tracking with reporting
+- 💾 Backup & restore functionality for data safety
+
+---
+
+## 💼 Experience Timeline
+
+```
+2025 ──────────────────────────────────────────────────────────────── 2026
+
+Jun 2025 ──────────── Jul 2025          Dec 2025 ─────────── Mar 2026
+│                                        │
+│  🏢 Innobyte Services                  │  🏢 Infosys Springboard
+│  Web Developer Intern (Remote)         │  AI Intern — Virtual Internship 6.0
+│                                        │
+│  • Redesigned guest house website      │  • Trained in ML, AI, & workflows
+│  • Modern responsive UI with           │  • Built Docstring Generator using
+│    HTML / CSS / JavaScript             │    AST parsing + LLM APIs
+│  • Cross-browser & mobile support      │
+```
+
+---
+
+## 📊 GitHub Intelligence
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-kumar-code&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" height="170"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-0552a32ab/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choubeyashish22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashish-kumar-code)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashish-kumar-code&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-code&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0&langs_count=6" height="170"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```
-python
-class AshishKumar:
-    def __init__(self):
-        self.name       = "Ashish Kumar"
-        self.location   = "Saran, Bihar, India 📍"
-        self.education  = "B.Tech CSE @ GGSES Technical Campus, Bokaro (2022–2026)"
-        self.cgpa       = "7.51 / 10 (till 7th semester)"
-        self.email      = "choubeyashish22@gmail.com"
-        self.passion    = ["Generative AI", "Deep Learning", "Process Automation"]
-
-    def current_focus(self):
-        return [
-            "🤖 Building AI-driven automation tools",
-            "🧠 Exploring LLMs and Generative AI",
-            "🌐 Crafting responsive web experiences",
-            "📈 Solving real-world problems with code"
-        ]
-
-    def fun_fact(self):
-        return "I turn ☕ coffee into AI-powered applications!"
-```
-
----
-
-## 💼 Work Experience
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Infosys Springboard (Virtual Internship 6.0)
-**🎯 Artificial Intelligence Intern** | *Remote*
-📅 Dec 2025 – Mar 2026
-
-- 🎓 Completed training in AI, ML fundamentals & AI application workflows
-- 🛠️ Built an **Automated Python Docstring Generator** using AST parsing and LLM APIs for structured documentation
-
-</td>
-<td width="50%">
-
-### 🏢 Innobyte Services
-**🎯 Web Developer Intern** | *Remote*
-📅 June 2025 – Jul 2025
-
-- 🎨 Redesigned a commercial guest house website with modern, fully responsive UI
-- ⚡ Improved UI/UX, performance, mobile compatibility & cross-browser support
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
+## 🏆 Achievements
 
 <div align="center">
 
-| Project | Tech Stack | Highlights |
-|--------|------------|------------|
-| 🤖 **Automated Python Docstring Generator** | Python, AST, Streamlit, LLM APIs | AI-powered tool that auto-generates Google/NumPy-style docstrings via static code analysis |
-| 🫁 **Pneumonia Detection System** | Python, CNN, TensorFlow/PyTorch, OpenCV | Deep learning model detecting pneumonia from chest X-rays with image preprocessing |
-| 💰 **Personal Finance Management System** | Python, SQLite | CLI app for income/expense tracking, budgeting, auth, and backup/restore |
-| 🌐 **iCoder** | HTML, CSS, JS, React | Web development project showcasing frontend skills |
-| 📄 **DOC-AI** | Python, AI APIs | Document intelligence application |
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ashish-kumar-code&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
 
 </div>
 
 ---
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Tools
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashish-kumar-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-kumar-code&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-kumar-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
 
 ## 📜 Certifications
 
-- 🎖️ **Artificial Intelligence** — Infosys Springboard
-- 🔐 **Cryptography and Cybersecurity Bootcamp** — IIT(ISM) Dhanbad
-- 🏅 **HackQuinox Certification** — FCRIT, Navi Mumbai
+| 🎖️ Certification | 🏛️ Institution |
+|---|---|
+| Artificial Intelligence | Infosys Springboard |
+| Cryptography & Cybersecurity Bootcamp | IIT(ISM) Dhanbad |
+| HackQuinox Certification | FCRIT, Navi Mumbai |
 
 ---
 
-## 📈 Contribution Graph
+## 📡 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-code&theme=tokyo-night&hide_border=true&area=true)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-kumar-code&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
 <div align="center">
 
-> *"The best way to predict the future is to build it."*
+```python
+while alive:
+    eat()
+    sleep()
+    code()
+    repeat()
+```
 
-I'm always open to collaborating on exciting projects, internship opportunities, or just geeking out about AI and tech!
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choubeyashish22@gmail.com)
+*"Build something that matters."*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
-
-⭐ *If you find my work interesting, consider starring my repositories!* ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
