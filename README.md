@@ -21,7 +21,7 @@
 
 ## 🧑‍💻 About Me
 
-```python
+python
 class AshishKumar:
     def __init__(self):
         self.name       = "Ashish Kumar"
@@ -41,7 +41,7 @@ class AshishKumar:
 
     def fun_fact(self):
         return "I turn ☕ coffee into AI-powered applications!"
-```
+
 
 ---
 
