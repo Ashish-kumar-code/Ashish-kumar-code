@@ -1,25 +1,34 @@
 <div align="center">
 
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:1a1a2e,100:16213e&text=ASHISH%20KUMAR&fontColor=00d4ff&fontSize=55&fontAlign=50&fontAlignY=55&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Python%20Craftsman&descFontColor=a0aec0&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:1a1a2e,100:16213e&text=ASHISH%20KUMAR&fontColor=00d4ff&fontSize=52&fontAlign=50&fontAlignY=50&desc=Software%20Engineer%20%7C%20AI%20Developer%20%7C%20Python%20Developer&descFontColor=a0aec0&descSize=15&animation=fadeIn" width="100%"/>
 
 </div>
 
-```bash
-┌──────────────────────────────────────────────────────────────────────────┐
-│                         $ whoami                                          │
-│                                                                           │
-│  > Ashish Kumar — AI-first developer from Bihar, India 🇮🇳                │
-│  > B.Tech CSE @ GGSES Technical Campus, Bokaro (2022–2026)               │
-│  > 7.51 CGPA | Python · AI/ML · Web Dev · LLM APIs                      │
-│  > Building tools that think, automate, and solve real problems 🤖        │
-│  > Currently: open to internships & full-time roles                      │
-└──────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=print(%22Hello%2C+World!+I+build+AI+tools%22);%E2%96%B6+Generative+AI+%7C+LLM+APIs+%7C+Automation;%E2%96%B6+CNN+%7C+TensorFlow+%7C+Deep+Learning;%E2%96%B6+Python+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Aspiring+SDE+%7C+AI+%26+Automation+Enthusiast;Building+production-ready+Python+%26+AI+tools;Open+to+SDE+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔═════════════════════════════════════════════════════════════════════╗
+║                          $ whoami                                   ║
+╠═════════════════════════════════════════════════════════════════════╣
+║  > Name     :  Ashish Kumar                                         ║
+║  > Location :  Saran, Bihar, India                                  ║
+║  > Degree   :  B.Tech CSE — GGSES Technical Campus, Bokaro          ║
+║  > Duration :  Sep 2022 – June 2026  |  CGPA: 7.51 / 10             ║
+║  > Stack    :  Python · AI/ML · Web Dev · LLM APIs                  ║
+║  > Goal     :  Build scalable, intelligent software systems         ║
+║  > Status   :  Open to SDE / AI / Backend Full-Time Roles           ║
+╚═════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -27,7 +36,7 @@
 
 <div align="center">
 
-### 🔗 Connect with me
+### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-0552a32ab/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choubeyashish22@gmail.com)
@@ -75,42 +84,45 @@
 > *Each project is a working system, not just a demo.*
 
 ### 🤖 01 — Automated Python Docstring Generator
+
 ```
-┌─ Tech ──────────────────────────────────────────────────┐
-│  Python · AST · Streamlit · LLM APIs (Gemini / OpenAI) │
-└─────────────────────────────────────────────────────────┘
+Tech:  Python · AST · Streamlit · LLM APIs (Gemini / OpenAI)
 ```
+
 > An AI-powered dev-tool that reads raw Python source code, uses **Abstract Syntax Tree (AST)** parsing to detect every function/class, then calls a live LLM API to generate rich, contextual docstrings — no human input needed.
-- 🔍 Static code analysis via Python AST
-- 🧾 Outputs Google & NumPy doc styles on demand
-- ⚡ Streamlit UI for real-time generation
-- 💡 *Cuts documentation time from hours to seconds*
+
+- 🔍 Static code analysis via Python AST — zero runtime dependency
+- 🧾 Outputs Google & NumPy documentation styles on demand
+- ⚡ Streamlit UI for real-time generation and preview
+- 💡 *Reduces documentation effort from hours to seconds*
 
 ---
 
 ### 🫁 02 — Pneumonia Detection System
+
 ```
-┌─ Tech ───────────────────────────────────────────────────────────────┐
-│  Python · CNN · TensorFlow / PyTorch · OpenCV · Medical X-ray Data  │
-└──────────────────────────────────────────────────────────────────────┘
+Tech:  Python · CNN · TensorFlow / PyTorch · OpenCV · Medical X-ray Dataset
 ```
-> A medical deep-learning model that analyses chest X-ray images to classify pneumonia with high accuracy using Convolutional Neural Networks.
-- 📷 Image preprocessing: resize, normalize, augment
-- 🧠 Custom CNN architecture trained on X-ray datasets
-- 📊 Evaluation with precision, recall, and F1 metrics
-- 💡 *Demonstrates real-world CNN application in healthcare AI*
+
+> A medical deep-learning model that classifies chest X-ray images as pneumonia-positive or negative using a custom Convolutional Neural Network pipeline.
+
+- 📷 Image preprocessing: resize, normalize, and augment datasets
+- 🧠 Custom CNN architecture trained on labelled X-ray data
+- 📊 Evaluation via precision, recall, and F1-score metrics
+- 💡 *Real-world CNN application in healthcare AI*
 
 ---
 
 ### 💰 03 — Personal Finance Management System
+
 ```
-┌─ Tech ──────────────────┐
-│  Python · SQLite · CLI  │
-└─────────────────────────┘
+Tech:  Python · SQLite · CLI
 ```
-> A full-featured CLI financial tracker with user authentication, live budget tracking, and data backup — all powered by a local SQLite database.
-- 🔐 User authentication & session management
-- 📈 Income/expense tracking with reporting
+
+> A full-featured CLI financial tracker with user authentication, live budget tracking, and data backup — built entirely on a local SQLite database.
+
+- 🔐 User authentication & secure session management
+- 📈 Income/expense tracking with auto-generated reports
 - 💾 Backup & restore functionality for data safety
 
 ---
@@ -118,22 +130,23 @@
 ## 💼 Experience Timeline
 
 ```
-2025 ──────────────────────────────────────────────────────────────── 2026
+2025 ──────────────────────────────────────────────────────── 2026
 
-Jun 2025 ──────────── Jul 2025          Dec 2025 ─────────── Mar 2026
-│                                        │
-│  🏢 Innobyte Services                  │  🏢 Infosys Springboard
-│  Web Developer Intern (Remote)         │  AI Intern — Virtual Internship 6.0
-│                                        │
-│  • Redesigned guest house website      │  • Trained in ML, AI, & workflows
-│  • Modern responsive UI with           │  • Built Docstring Generator using
-│    HTML / CSS / JavaScript             │    AST parsing + LLM APIs
-│  • Cross-browser & mobile support      │
+  Jun 2025 ──── Jul 2025              Dec 2025 ──── Mar 2026
+  │                                   │
+  │  🏢 Innobyte Services             │  🏢 Infosys Springboard
+  │  Web Developer Intern             │  AI Intern — Virtual 6.0
+  │  Remote                           │  Remote
+  │                                   │
+  │  · Rebuilt guest house site       │  · Trained in ML & AI workflows
+  │    with responsive modern UI      │  · Built Docstring Generator
+  │  · Improved UX, performance       │    via AST + LLM APIs
+  │    & cross-browser support        │
 ```
 
 ---
 
-## 📊 GitHub Intelligence
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -146,21 +159,11 @@ Jun 2025 ──────────── Jul 2025          Dec 2025 ──�
 
 </div>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ashish-kumar-code&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)
-
-</div>
-
----
 
 ## 📜 Certifications
 
-| 🎖️ Certification | 🏛️ Institution |
+| 🎖️ Certification | 🏛️ Issuing Body |
 |---|---|
 | Artificial Intelligence | Infosys Springboard |
 | Cryptography & Cybersecurity Bootcamp | IIT(ISM) Dhanbad |
@@ -190,7 +193,7 @@ while alive:
 
 *"Build something that matters."*
 
----
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=80&section=footer" width="100%"/>
 
